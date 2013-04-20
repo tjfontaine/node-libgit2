@@ -15,7 +15,7 @@
   "engines": {
     "node": "*"
   },
-  dependencies: {
+  "dependencies": {
     "node-ffi": "*"
   }
 }
