@@ -10,12 +10,12 @@
   },
   "main": "./lib/index.js",
   "directories": {
-    "lib": "lib",
+    "lib": "lib"
   },
   "engines": {
     "node": "*"
   },
-  dependencies: {
+  "dependencies": {
     "node-ffi": "*"
   }
 }
